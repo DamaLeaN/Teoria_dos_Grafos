@@ -170,7 +170,7 @@ void imprimirArestas(){
 
 }
 
-//e)Criar o fecho transitivo para o grafo dos municípios e imprimir a matriz e a lista de aresta com as novas características.    (peso = 1,25)
+//e)Criar o fecho transitivo para o grafo dos municÃ­pios e imprimir a matriz e a lista de aresta com as novas caracterÃ­sticas.    (peso = 1,25)
 void fechoTrans(){
 
     mFT[0][2] = 1;
